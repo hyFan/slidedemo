@@ -1,59 +1,46 @@
 class: center, middle
 
-# 讲义题目
+# 范瀚允自我介绍
 
 &nbsp;
 &nbsp;
 
-#### 作者姓名 (author@email.com)  
+#### 范瀚允 (501180426@qq.com)  
 
-主页: https://github.com/author
-
----
-
-## 本讲内容
-
-### <font color="orangered">1. 第一部分</font>
-
-#### &nbsp; &nbsp; 1.1 如何学习
-#### &nbsp; &nbsp; 1.2 好好学习
-#### &nbsp; &nbsp; 1.3 好好学习
-
-### 2. 第二部分
-
-### 3. 第三部分
+主页: https://github.com/hyFan
 
 ---
 
-## 第一部分
+## 自我介绍
 
-```c
-int main()
-{
-  printf("Hello world\n");
-  return 0 ;
-}
-```
+### <font color="orangered">1. 我的过去</font>
 
----
+#### &nbsp; &nbsp; 1.1 我的家乡
+#### &nbsp; &nbsp; 1.2 我的母校
+#### &nbsp; &nbsp; 1.3 我的经历
 
-## 插图
+### 2. 我的兴趣
 
-** Ada Lovelace **
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/9/95/Ada_Lovelace_color.svg" width=300 style="margin: 0px 80px">
+### 3. 我的规划
 
 ---
 
-## `\(\LaTeX{}\)` in remark
+## 我的过去
+
+我来自吉林，唯一省市同名的地方，松花江水滋养着我，这个小城中有所学校，吉林市第一中学，他比不上其他大校，但他教会了我在逆境中成长。我来到这里前经历了很多，化学竞赛失利，仅拿银牌，生科冬令营表现不佳，高考前得水痘，隔离21天，不过我还是来到了梦想中的北大，来到了元培学院，希望能早日融入这个优秀的学校，优秀的集体。
+
+---
+
+## 我的兴趣
+
+我喜欢足球，虽然球技不佳，但正在努力练习。我很喜欢摇滚乐和钢琴曲，可惜自己并不会什么乐器。
+
+---
+
+## 我的规划
 
 
-1. This is an inline integral: `\(\int_a^bf(x)dx\)`
-2. More `\(x={a \over b}\)` formulae.
-
-Display formula:
-
-$$e^{i\pi} + 1 = 0$$
+我希望能在大学4年中收获学科的专业素养，同时关注窗外的世界，提升人文素养，锻炼好身体，为未来的发展奠基。希望能努力学习提高gpa的同时，关注学科前沿，争取出国留学，拓宽视野。做一个全面发展的青年。
 
 ---
 
